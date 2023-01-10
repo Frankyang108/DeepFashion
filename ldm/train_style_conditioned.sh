@@ -1,0 +1,1 @@
+python3 main.py  -b configs/latent-diffusion/image_conditioned-deepfashion_inshop-ldm-vq-4.yaml  -t --gpus 0,

@@ -1,0 +1,2 @@
+python3 main.py  -b configs/autoencoder/autoencoder_kl_fashion_  -t --gpus 0,
+# python3 main.py  -b configs/autoencoder/autoencoder_kl_fashion_16x16x16.yaml -r logs/autoencoder_kl_fashion_16x16x16/checkpoints/epoch\=000007.ckpt --gpus 0,1,2,3,4,5,6,7 -t

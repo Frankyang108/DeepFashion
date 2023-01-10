@@ -1,0 +1,6 @@
+[submodule "external/taming-transformers"]
+	path = external/taming-transformers
+	url = https://gitee.com/liuxin2023/taming-transformers.git
+[submodule "external/lsun"]
+	path = external/lsun
+	url = https://gitee.com/u2mithrandir/lsun.git
