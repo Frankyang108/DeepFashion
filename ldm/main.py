@@ -536,6 +536,7 @@ if __name__ == "__main__":
 
         # trainer and callbacks
         trainer_kwargs = dict()
+        trainer_kwargs['max_epochs'] = 100
 
         # default logger configs
         default_logger_cfgs = {
